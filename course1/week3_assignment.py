@@ -6,7 +6,7 @@ Created on Tue Jan  1 09:16:13 2019
 """
 
 import os
-os.chdir("C:/Users/fukey/Documents/Python Scripts/course1")
+os.chdir("C:/Users/fukey/Documents/dara-sciensce-cursera/course1")
 
 import pandas as pd
 from pandas import ExcelWriter
