@@ -59,6 +59,3 @@ df = df.set_index('Country')
 #merge_outer
 df2 = pd.merge(ScimEn, energy, how = 'outer', left_on = 'Country', right_on = 'Country')
 df2 = pd.merge(df2, GDP, how = 'outer', left_on = 'Country', right_on = 'Country')
-
-
-#https://github.com/Qian-Han/coursera-Applied-Data-Science-with-Python
