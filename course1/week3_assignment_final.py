@@ -66,7 +66,6 @@ df = pd.merge(df, GDP, how = 'inner', left_on = 'Country', right_on = 'Country')
 #merge_outer
 df2 = pd.merge(ScimEn, energy, how = 'outer', left_on = 'Country', right_on = 'Country')
 df2 = pd.merge(df2, GDP, how = 'outer', left_on = 'Country', right_on = 'Country')
-<<<<<<< HEAD
 
 print(len(df2)-len(df))
 #################################
@@ -135,5 +134,4 @@ PopEst= (Top15['Energy Supply'] / Top15['Energy Supply per Capita']).apply(lambd
 
 
 df.assign(temp_f=lambda x: x.temp_c * 9 / 5 + 32)
-=======
->>>>>>> a9dedd214cc1a012151c8599351a1d06d8219ba0
+#https://github.com/Qian-Han/coursera-Applied-Data-Science-with-Python
