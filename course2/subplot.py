@@ -4,7 +4,7 @@ Created on Sat Mar 30 18:26:38 2019
 
 @author: Yohko Tomota
 """
-
+#F9!!!
 #learn plots
 import matplotlib.pyplot as plt
 import numpy as np
@@ -14,8 +14,7 @@ plt.figure()
 plt.subplot(1,2,1)
 
 linear_data = np.array([1,2,3,4,6,7,8,9])
-plt.plot(l
-         inear_data, '-o')
+plt.plot(linear_data, '-o')
 plt.plot(linear_data, '-x')
 exponential_data = linear_data**2
 

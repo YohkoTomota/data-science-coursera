@@ -12,7 +12,10 @@ df = pd.DataFrame([{'Name':'Chris', 'Item' : "Sponge", 'Cost':222.5},
                    {'Name':'Filip', 'Item' : "Spoon", 'Cost':24}],
                    index = ['Store1','Store2', 'Store3'])
 
-#add colums
+#Add data 
+df.append([{'Cost': 8 , 'Item': 'FOk', 'Name': 'kyou'} ],ignore_index=True)
+
+#Add colums
 df['Date'] = ['December 1','January 1', 'mid-May']
 
 df['Delivered'] = True
