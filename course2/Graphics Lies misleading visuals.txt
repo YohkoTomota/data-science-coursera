@@ -1,0 +1,27 @@
+data-science
+course2 data visualization
+assignment-misleading graph
+
+
+This is a famous graph which Dylan Matthews at the Washington Post published in the Enliven Project.
+http://sarahbeaulieu.me/the-truth-about-false-accusation
+
+It aims to show that most of rapes are not reported and the relatively small number of false rape accusations.
+This is intended to initiate discussion about sexual violence by comparing between men's fear of being falsely accused to femail's challenges to report it.
+Detail explanation is available here.
+https://sarahbeaulieu.me/wp-content/uploads/2018/09/FACT-SHEET_FalseAccusationOnePager2013.pdf
+
+
+1.Assumming one rape per rapist.
+The graph shows one man simbol as one rape. But it is labaled as 'rapist' on top and misleading the false rape accusation seems low.
+The fact that most rapists are repeat it and they are not repoeted. 
+If one rapist is in jail after he raped first time, viscims number should be drascicaly small and there is more raipist in jail cell.   
+By this playing large number of unrepoerted 'raipist', this graph enphasize rare false accusations.
+This is relevant to Cairo outlines(3)distorting data through visual forms.
+
+2.Overestimates the number of unreported rapes.
+It says that unreported rapes are estimated by the accused rapist who has raped over times but not reported before.
+It is hard to accurately count the unreported number because it is unreported. However, other data sourse said the varior to report
+getting lower by improving public educational system.  
+https://www.rainn.org/statistics/criminal-justice-system
+This kind of reporting rate data should be considered, and it is relevant to Cairo outlines(1) Hiding relevant data
